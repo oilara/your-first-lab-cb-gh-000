@@ -2,7 +2,7 @@
 
 Now that you've got the Learn IDE up and running, you're going to use it to solve your very first lab on Learn.
 
-## Objectives sss
+## Objectives
 
 1. Open a lab by clicking "Open" on this page on Learn.co
 2. Run the lab's tests with the `learn` CLI command
